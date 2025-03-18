@@ -49,7 +49,7 @@ Usage
   - `CSAC_input_FE_DATABASE.csv` (or similar)
 - To process this file further, use:
   - `CS_Freq_Vector.py` → Converts `DATABASE.csv` to `FREQ_VECTOR.csv`.
-  - `Ligand_Distribution2.py`, `Ligand_Size_Violin.py`, `CS_Hydropathy.py`, and `CS_PCA.py` → Visualization and statistical analysis.
+  - `CS_Ligand_Distribution.py`, `CS_Ligand_Size_Violin.py`, `CS_Hydropathy.py`, and `CS_PCA.py` → Visualization and statistical analysis.
 
 Example Input Format
 ---------------------
