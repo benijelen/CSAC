@@ -74,7 +74,7 @@ Citing CSAC
 -----------
 If you use CSAC in your research, please cite the corresponding DOI:
 
-> **Jelen, B. I., Moore, E. K., & Christensen, B.** (2024). CSAC: Coordination Sphere Analysis and Comparison. *Zenodo*. [DOI: 10.xxxx/zenodo.xxxxxx] (Placeholder – update after Zenodo release)
+> **Jelen, B. I., Moore, E. K., & Christensen, B.** (2024). CSAC: Coordination Sphere Analysis and Comparison. *Zenodo*. [DOI: 10.xxxx/zenodo.xxxxxx] (DOI: 10.5281/zenodo.15047723)
 
 Contributing
 ------------
