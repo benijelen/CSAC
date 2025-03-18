@@ -1,0 +1,23 @@
+﻿PDB ID,Metabolism,OxygenTOL
+1MRO,Methanogenesis,anaerobic
+3POT,Methanogenesis,anaerobic
+3ZFS,Hydrogen Oxidation,anaerobic
+1FRV,Hydrogen Oxidation,anaerobic
+3AYZ,Hydrogen Oxidation (knallgas),aerobic
+3AYX,Hydrogen Oxidation (knallgas),aerobic
+1JQK,WL-Pathway (CODH),anaerobic
+1OAO,WL-Pathway (ACS),anaerobic
+1MMO,Methane Oxidation ,aerobic
+2V4J,Sulfite Respiration,anaerobic
+3MK7,Aerobic Respiration,aerobic
+1BCC,Aerobic Respiration,aerobic
+2NAP,Nitrate Respiration,anaerobic
+3WU2,Oxygenic Photosynth,aerobic
+1N2C,Nitrogen Fixation,anaerobic
+3MMC,Sulfite Respiration,anaerobic
+1FCD,Anoxygenic Photosynth,anaerobic
+1SU6,WL-Pathway (CODH),anaerobic
+3I39,WL-Pathway (CODH),anaerobic
+3AYF,Nitric Oxide Respiration,anaerobic
+3O0R,Nitric Oxide Respiration,anaerobic
+1Q0D,Oxygen Dismuation,aerobic
