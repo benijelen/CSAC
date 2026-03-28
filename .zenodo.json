@@ -1,0 +1,28 @@
+{
+  "title": "CSAC",
+  "description": "Coordination Sphere Analysis and Comparison (CSAC) is a Python workflow for analyzing metal-binding environments in protein structures. This repository snapshot includes the core CSAC extraction scripts together with the project-specific QC, statistics, and figure-generation scripts used for the Fe-binding aerobic-versus-anaerobic manuscript.",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Jelen, Benjamin I.",
+      "affiliation": "Rowan University; The University of Texas at Austin"
+    },
+    {
+      "name": "Moore, Eli K.",
+      "affiliation": "U.S. Geological Survey"
+    },
+    {
+      "name": "Christensen, Beth",
+      "affiliation": "Rowan University"
+    }
+  ],
+  "keywords": [
+    "CSAC",
+    "metalloproteins",
+    "iron",
+    "protein structure",
+    "bioinformatics",
+    "geobiology"
+  ]
+}

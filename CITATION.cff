@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "CSAC"
+message: "If you use this software, please cite the Zenodo archive below."
+type: software
+authors:
+  - family-names: Jelen
+    given-names: Benjamin I.
+  - family-names: Moore
+    given-names: Eli K.
+  - family-names: Christensen
+    given-names: Beth
+version: 1.0.0
+doi: 10.5281/zenodo.15047723
+repository-code: "https://github.com/benijelen/CSAC"
+license: MIT
