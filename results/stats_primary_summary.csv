@@ -1,0 +1,9 @@
+dataset,layer,metric,model,n_rows,n_proteins,n_aerobic,n_anaerobic,estimate,p_value,effect_size,notes
+primary_all_structures,per_center_mixed_effects,Average Hydropathy,mixedlm_pdb_plus_metabolism_vc,556,94,273,283,-1.5151572089250398,1.7714771704424016e-07,-1.2571372746383394,fixed effect is aerobic-vs-anaerobic contrast (oxy_bin)
+primary_all_structures,per_protein_aggregated,Average Hydropathy,welch_ttest_and_mannwhitney,556,94,62,32,,7.0276333606451e-07,-1.1122383210624687,mannwhitney_p=3.8595021280550705e-05
+primary_all_structures,per_center_mixed_effects,cys_fraction,mixedlm_pdb_plus_metabolism_vc,556,94,273,283,-0.5139345782420521,7.443386607077427e-17,-1.5968291417300784,fixed effect is aerobic-vs-anaerobic contrast (oxy_bin)
+primary_all_structures,per_protein_aggregated,cys_fraction,welch_ttest_and_mannwhitney,556,94,62,32,,9.47779692778761e-09,-1.7919669235049103,mannwhitney_p=2.9867674619356955e-11
+sensitivity_exclude_nmr,per_center_mixed_effects,Average Hydropathy,mixedlm_pdb_plus_metabolism_vc,548,91,272,276,-1.6605610061861096,1.3523810446629761e-08,-1.3043968974908142,fixed effect is aerobic-vs-anaerobic contrast (oxy_bin)
+sensitivity_exclude_nmr,per_protein_aggregated,Average Hydropathy,welch_ttest_and_mannwhitney,548,91,61,30,,6.400532728193509e-08,-1.245660532811216,mannwhitney_p=4.58160490902605e-06
+sensitivity_exclude_nmr,per_center_mixed_effects,cys_fraction,mixedlm_pdb_plus_metabolism_vc,548,91,272,276,-0.5542260395674953,5.061434188874296e-20,-1.6613215858741066,fixed effect is aerobic-vs-anaerobic contrast (oxy_bin)
+sensitivity_exclude_nmr,per_protein_aggregated,cys_fraction,welch_ttest_and_mannwhitney,548,91,61,30,,2.402141854462474e-09,-2.0484529426883142,mannwhitney_p=3.096296582879489e-11

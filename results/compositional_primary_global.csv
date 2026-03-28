@@ -1,0 +1,3 @@
+layer,n_rows,n_aerobic,n_anaerobic,global_stat_centroid_distance_clr,global_perm_p_value,n_perm
+per_center,556,273,283,10.084755457359512,0.0003332222592469177,3000
+per_protein,94,62,32,10.783019832395912,0.0003332222592469177,3000
