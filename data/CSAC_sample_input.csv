@@ -1,0 +1,109 @@
+PDB ID,Metabolism,OxygenTOL
+1APX,ROS Detox,aerobic
+1B4U,Aromatic Dioxygenation,aerobic
+1CNO,Nitrification,aerobic
+1DMH,Aromatic Dioxygenation,aerobic
+1EB7,ROS Detox,aerobic
+1EIQ,Aromatic Dioxygenation,aerobic
+1FT5,Nitrification,aerobic
+1FT6,Nitrification,aerobic
+1IPH,ROS Detox,aerobic
+1IQC,ROS Detox,aerobic
+1IYN,ROS Detox,aerobic
+1JQ4,Unknown,aerobic
+1KRH,Aromatic Dioxygenation,aerobic
+1M56,Unknown,aerobic
+1MHY,Unknown,aerobic
+1NDO,Aromatic Dioxygenation,aerobic
+1SOX,Sulfur Oxidation,aerobic
+1T0Q,Methane Oxidation,aerobic
+1T0R,Aromatic Dioxygenation,aerobic
+1WW9,Aromatic Dioxygenation,aerobic
+1XVB,Unknown,aerobic
+2C1D,Sulfur Oxidation,aerobic
+2C1U,ROS Detox,aerobic
+2C8S,Methane Oxidation,aerobic
+2D0W,Methane Oxidation,aerobic
+2D3Q,ROS Detox,aerobic
+2GBX,Aromatic Dioxygenation,aerobic
+2JE3,Nitrification,aerobic
+2RDZ,ROS Detox,aerobic
+2WL9,Aromatic Dioxygenation,aerobic
+3AG3,Unknown,aerobic
+3DHH,Methane Oxidation,aerobic
+3DVE,Sulfur Oxidation,aerobic
+3F9P,ROS Detox,aerobic
+3HB3,Unknown,aerobic
+3PCB,Aromatic Dioxygenation,aerobic
+3RGB,Methane Oxidation,aerobic
+3S8F,Unknown,aerobic
+3VB0,Aromatic Dioxygenation,aerobic
+4AQ6,Aromatic Dioxygenation,aerobic
+4AU9,ROS Detox,aerobic
+4E37,ROS Detox,aerobic
+4JCG,Nitrification,aerobic
+5SW4,ROS Detox,aerobic
+5VJ0,ROS Detox,aerobic
+6HIU,Methane Oxidation,aerobic
+6J42,ROS Detox,aerobic
+6M0Q,Nitrification,aerobic
+6RKO,Unknown,aerobic
+6RX4,Unknown,aerobic
+6TM3,Methane Oxidation,aerobic
+7C8Z,Aromatic Dioxygenation,aerobic
+7CUW,Unknown,aerobic
+7DLQ,ROS Detox,aerobic
+7OSE,Unknown,aerobic
+7QYQ,ROS Detox,aerobic
+7XQW,Methane Oxidation,aerobic
+7ZVZ,Methane Oxidation,aerobic
+8AJZ,Unknown,aerobic
+8DJW,ROS Detox,aerobic
+8J83,Methane Oxidation,aerobic
+8OGI,ROS Detox,aerobic
+8SR2,Methane Oxidation,aerobic
+9G6B,Unknown,aerobic
+9HE6,ROS Detox,aerobic
+9QDT,ROS Detox,aerobic
+9R2G,Unknown,aerobic
+1EU1,Anaerobic Respiration,anaerobic
+1FDO,Anaerobic Acetogenesis,anaerobic
+1FDX,Anaerobic Acetogenesis,anaerobic
+1FS7,Anaerobic Respiration,anaerobic
+1HFE,Anaerobic Hydrogen Metabolism,anaerobic
+1IYG,Anaerobic Aromatic Degradation,anaerobic
+1M1Q,Anaerobic Metal Reduction,anaerobic
+1NIR,Anaerobic Respiration,anaerobic
+1NQG,Anaerobic Metal Reduction,anaerobic
+1OAO,Anaerobic Acetogenesis,anaerobic
+1OS6,Anaerobic Metal Reduction,anaerobic
+1Q16,Anaerobic Respiration,anaerobic
+1QJD,Anaerobic Respiration,anaerobic
+1QLA,Anaerobic Sulfur Metabolism,anaerobic
+1TMO,Anaerobic Respiration,anaerobic
+1X2N,Sulfur Oxidation,anaerobic
+2CTH,Anaerobic Sulfur Metabolism,anaerobic
+2IVF,Anaerobic Aromatic Degradation,anaerobic
+2NYA,Anaerobic Respiration,anaerobic
+2V4J,Sulfur Oxidation,anaerobic
+2VPZ,Anaerobic Respiration,anaerobic
+3BXU,Sulfur Oxidation,anaerobic
+3GYX,Anaerobic Sulfur Metabolism,anaerobic
+3O0R,Anaerobic Respiration,anaerobic
+3RGW,Anaerobic Hydrogen Metabolism,anaerobic
+3SBP,Anaerobic Respiration,anaerobic
+4LM8,Anaerobic Metal Reduction,anaerobic
+4OMF,Anaerobic Methane,anaerobic
+4UR0,Anaerobic Respiration,anaerobic
+5ODC,Anaerobic Energy Conservation,anaerobic
+5OL2,Anaerobic Energy Conservation,anaerobic
+5Y34,Anaerobic Hydrogen Metabolism,anaerobic
+6DDA,Anaerobic Metal Reduction,anaerobic
+6EF8,Anaerobic Metal Reduction,anaerobic
+6Y5F,Anaerobic Nitrogen Cycle,anaerobic
+7KOE,Anaerobic Energy Conservation,anaerobic
+7Z0S,Anaerobic Energy Conservation,anaerobic
+8RXN,Anaerobic Hydrogen Metabolism,anaerobic
+9BOV,Anaerobic Energy Conservation,anaerobic
+9BT4,Anaerobic Energy Conservation,anaerobic
+9NEZ,Anaerobic Hydrogen Metabolism,anaerobic

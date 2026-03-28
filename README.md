@@ -3,8 +3,8 @@ CSAC
 
 Coordination Sphere Analysis and Comparison (CSAC) is a Python workflow for analyzing
 metal-binding environments in protein structures. This repository snapshot includes the
-core CSAC extraction scripts together with the project-specific QC, statistics, and figure
-generation scripts used for the Fe-binding aerobic-versus-anaerobic manuscript.
+core CSAC extraction scripts together with the downstream analysis and figure-generation
+scripts used for the Fe-binding aerobic-versus-anaerobic manuscript.
 
 Repository contents
 -------------------
@@ -12,7 +12,6 @@ Repository contents
   coordination environments from PDB structures.
 - `CS_Freq_Vector.py`: converts CSAC database output into normalized amino-acid
   composition vectors.
-- `qc_filter_v2.py`: manuscript QC and deduplication pipeline for the curated structure set.
 - `stats_v2.py`: per-protein and mixed-effects statistical analyses used in the manuscript.
 - `compositional_analysis_v2.py`: compositional amino-acid analyses used in the manuscript.
 - `plot_figure4_ligand_distribution.py`
@@ -21,7 +20,8 @@ Repository contents
 - `plot_figure6_hydropathy_by_oxygentol.py`
 - `plot_figure6_hydropathy_by_oxygentol_per_protein.py`
 - `plot_figure7ab_pca_scree.py`
-- `CSAC_sample_input.csv`: example CSAC input file.
+- `data/CSAC_sample_input.csv`: manuscript-aligned sample input file.
+- `data/Supplementary_Table_1.xlsx`: finalized supplementary dataset used for submission.
 
 Python requirements
 -------------------
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 Basic CSAC usage
 ----------------
 Run the core extraction workflow from a working directory that contains your input CSV and
-any local structure files you want CSAC to use.
+any local `.pdb` structure files you want CSAC to use.
 
 ```bash
 python CSAC.py
@@ -51,19 +51,20 @@ Core outputs
 - `*_DATABASE.csv`: per-center coordination-environment output
 - `*_FREQ_VECTOR.csv`: normalized amino-acid composition vectors derived from the database
 
-The downstream project-specific analysis scripts in this directory were used to generate the
-summary statistics and figures reported for the Fe-binding manuscript.
+The downstream project-specific analysis scripts in this repository were used to generate
+the summary statistics and figures reported for the Fe-binding manuscript.
 
-Example input format
---------------------
+Sample input format
+-------------------
 The first column should be the PDB identifier. Additional metadata columns may be included
-to support downstream grouping and analysis.
+to support downstream grouping and analysis. See `data/CSAC_sample_input.csv` for the
+sample manuscript-aligned input file.
 
 ```csv
 PDB ID,Metabolism,OxygenTOL
-1MRO,Methanogenesis,anaerobic
-3POT,Methanogenesis,anaerobic
-3ZFS,Hydrogen Oxidation,anaerobic
+1APX,ROS Detox,aerobic
+1B4U,Aromatic Dioxygenation,aerobic
+1CNO,Nitrification,aerobic
 ```
 
 License
