@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Compositional amino-acid analysis (CLR + model + permutation).
 
-Primary target: reviewer-proof supplement for aerobic vs anaerobic differences.
-Uses canonical strict FE database by default.
+Primary target: supplement for aerobic vs anaerobic differences.
+Uses strict FE database by default.
 """
 
 from __future__ import annotations
