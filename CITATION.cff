@@ -9,7 +9,7 @@ authors:
     given-names: Eli K.
   - family-names: Christensen
     given-names: Beth
-version: 1.0.0
-doi: 10.5281/zenodo.15047723
+version: 1.1.4
+doi: 10.5281/zenodo.19319074
 repository-code: "https://github.com/benijelen/CSAC"
 license: MIT

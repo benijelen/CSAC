@@ -75,8 +75,8 @@ Citing CSAC
 -----------
 If you use CSAC, please cite the software archive:
 
-Jelen BI, Moore EK, Christensen B. CSAC (v1.1.2) [Computer software]. Zenodo.
-https://doi.org/10.5281/zenodo.15047723
+Jelen BI, Moore EK, Christensen B. CSAC (v1.1.4) [Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.19319074
 
 Repository
 ----------
