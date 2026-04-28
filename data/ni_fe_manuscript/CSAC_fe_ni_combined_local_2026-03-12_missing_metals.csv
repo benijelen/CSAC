@@ -1,0 +1,159 @@
+PDB ID,Missing Metal,Metabolism,SourceSet,EnzymeFamily,SourceSetDetail
+1APX,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+1B4U,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+1CNO,NI,Nitrification,FeBinding_primary108,,FeBinding_primary108
+1DMH,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+1E6V,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+1E6Y,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+1E9Y,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+1E9Z,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+1EB7,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+1EIQ,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+1EJW,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+1EU1,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1EU1,FE,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1F9Z,FE,Detox / Carbon Stress,Ni_primary_expanded,Glyoxalase I (Ni-dependent lineages),Ni_primary_expanded
+1FDO,NI,Anaerobic Acetogenesis,FeBinding_primary108,,FeBinding_primary108
+1FDX,NI,Anaerobic Acetogenesis,FeBinding_primary108,,FeBinding_primary108
+1FFV,NI,Anaerobic Acetogenesis,Legacy_FE_NI_shared_families,CODH,Legacy_FE_NI_shared_families
+1FS7,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1FT5,NI,Nitrification,FeBinding_primary108,,FeBinding_primary108
+1FT6,NI,Nitrification,FeBinding_primary108,,FeBinding_primary108
+1HBM,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+1HBN,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+1HBO,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+1HBU,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+1HFE,NI,Anaerobic Hydrogen Metabolism,FeBinding_primary108,,FeBinding_primary108
+1IPH,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+1IQC,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+1IYG,NI,Anaerobic Aromatic Degradation,FeBinding_primary108,,FeBinding_primary108
+1IYG,FE,Anaerobic Aromatic Degradation,FeBinding_primary108,,FeBinding_primary108
+1IYN,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+1JQ4,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+1KRB,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+1KRH,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+1M1Q,NI,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+1M56,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+1MHY,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+1MRO,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+1N5W,NI,Anaerobic Acetogenesis,Legacy_FE_NI_shared_families,CODH,Legacy_FE_NI_shared_families
+1NDO,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+1NIR,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1NQG,NI,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+1NQG,FE,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+1OS6,NI,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+1Q0D,FE,ROS Detox,Ni_primary_expanded,Ni superoxide dismutase,Ni_primary_expanded
+1Q0K,FE,ROS Detox,Ni_primary_expanded,Ni superoxide dismutase,Ni_primary_expanded
+1Q0M,FE,ROS Detox,Ni_primary_expanded,Ni superoxide dismutase,Ni_primary_expanded
+1Q16,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1QJD,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1QLA,NI,Anaerobic Sulfur Metabolism,FeBinding_primary108,,FeBinding_primary108
+1SOX,NI,Sulfur Oxidation,FeBinding_primary108,,FeBinding_primary108
+1T0Q,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+1T0R,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+1T6U,FE,ROS Detox,Ni_primary_expanded,Ni superoxide dismutase,Ni_primary_expanded
+1TMO,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1TMO,FE,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+1WW9,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+1X2N,NI,Sulfur Oxidation,FeBinding_primary108,,FeBinding_primary108
+1X2N,FE,Sulfur Oxidation,FeBinding_primary108,,FeBinding_primary108
+1XVB,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+1ZXI,NI,Anaerobic Acetogenesis,Legacy_FE_NI_shared_families,CODH,Legacy_FE_NI_shared_families
+2C1D,NI,Sulfur Oxidation,FeBinding_primary108,,FeBinding_primary108
+2C1U,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+2C8S,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+2CTH,NI,Anaerobic Sulfur Metabolism,FeBinding_primary108,,FeBinding_primary108
+2D0W,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+2D3Q,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+2GBX,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+2IVF,NI,Anaerobic Aromatic Degradation,FeBinding_primary108,,FeBinding_primary108
+2JE3,NI,Nitrification,FeBinding_primary108,,FeBinding_primary108
+2KAU,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+2NYA,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+2RDZ,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+2V4J,NI,Sulfur Oxidation,FeBinding_primary108,,FeBinding_primary108
+2VPZ,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+2WL9,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+3AG3,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+3BXU,NI,Sulfur Oxidation,FeBinding_primary108,,FeBinding_primary108
+3DHH,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+3DVE,FE,Sulfur Oxidation,FeBinding_primary108,,FeBinding_primary108
+3F9P,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+3GYX,NI,Anaerobic Sulfur Metabolism,FeBinding_primary108,,FeBinding_primary108
+3HB3,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+3HDP,FE,Detox / Carbon Stress,Ni_primary_expanded,Glyoxalase I (Ni-dependent lineages),Ni_primary_expanded
+3LA4,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+3O0R,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+3PCB,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+3RGB,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+3RGB,FE,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+3S8F,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+3SBP,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+3SBP,FE,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+3VB0,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+4AC7,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+4AQ6,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+4AU9,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+4CEU,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+4CEX,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+4E37,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+4G7E,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+4JCG,NI,Nitrification,FeBinding_primary108,,FeBinding_primary108
+4LM8,NI,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+4UR0,NI,Anaerobic Respiration,FeBinding_primary108,,FeBinding_primary108
+4Z42,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+5A0Y,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+5A6T,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+5A8K,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+5A8R,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+5A8W,FE,Anaerobic Methane,Ni_primary_expanded,Methyl-coenzyme M reductase,Ni_primary_expanded
+5D7Z,FE,Detox / Carbon Stress,Ni_primary_expanded,Glyoxalase I (Ni-dependent lineages),Ni_primary_expanded
+5FSD,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+5G4H,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+5I8S,FE,Sulfur/Carbon Salvage,Ni_primary_expanded,Acireductone dioxygenase (Ni form),Ni_primary_expanded
+5I8T,FE,Sulfur/Carbon Salvage,Ni_primary_expanded,Acireductone dioxygenase (Ni form),Ni_primary_expanded
+5I91,FE,Sulfur/Carbon Salvage,Ni_primary_expanded,Acireductone dioxygenase (Ni form),Ni_primary_expanded
+5I93,FE,Sulfur/Carbon Salvage,Ni_primary_expanded,Acireductone dioxygenase (Ni form),Ni_primary_expanded
+5OL2,NI,Anaerobic Energy Conservation,FeBinding_primary108,,FeBinding_primary108
+5OL2,FE,Anaerobic Energy Conservation,FeBinding_primary108,,FeBinding_primary108
+5OL4,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+5SW4,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+5VJ0,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+6C1W,FE,Anaerobic Energy Conservation,Ni_primary_expanded,Lactate racemase,Ni_primary_expanded
+6DDA,NI,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+6DDA,FE,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+6EF8,NI,Anaerobic Metal Reduction,FeBinding_primary108,,FeBinding_primary108
+6HIU,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+6J42,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+6J42,FE,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+6M0Q,NI,Nitrification,FeBinding_primary108,,FeBinding_primary108
+6QDY,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+6RKO,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+6RX4,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+6TM3,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+6TM3,FE,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+6Y5F,NI,Anaerobic Nitrogen Cycle,FeBinding_primary108,,FeBinding_primary108
+6Y5F,FE,Anaerobic Nitrogen Cycle,FeBinding_primary108,,FeBinding_primary108
+7C8Z,NI,Aromatic Dioxygenation,FeBinding_primary108,,FeBinding_primary108
+7CUW,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+7DLQ,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+7KOE,NI,Anaerobic Energy Conservation,FeBinding_primary108,,FeBinding_primary108
+7OSE,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+7QYQ,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+7XQW,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+7ZVZ,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+8AJZ,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+8DJW,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+8J83,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+8OGI,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+8ON0,NI,Anaerobic Acetogenesis,Legacy_FE_NI_shared_families,CODH,Legacy_FE_NI_shared_families
+8RXN,NI,Anaerobic Hydrogen Metabolism,FeBinding_primary108,,FeBinding_primary108
+8SR2,NI,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+8SR2,FE,Methane Oxidation,FeBinding_primary108,,FeBinding_primary108
+9BOV,NI,Anaerobic Energy Conservation,FeBinding_primary108,,FeBinding_primary108
+9BT4,NI,Anaerobic Energy Conservation,FeBinding_primary108,,FeBinding_primary108
+9G6B,NI,Unknown,FeBinding_primary108,,FeBinding_primary108
+9GML,FE,Nitrogen Metabolism,Ni_primary_expanded,Urease,Ni_primary_expanded
+9HE6,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+9QDT,NI,ROS Detox,FeBinding_primary108,,FeBinding_primary108
+9R2G,NI,Unknown,FeBinding_primary108,,FeBinding_primary108

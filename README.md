@@ -67,6 +67,20 @@ PDB ID,Metabolism,OxygenTOL
 1CNO,Nitrification,aerobic
 ```
 
+
+Ni/Fe manuscript data artifacts
+------------------------------
+The Fe/Ni manuscript-supporting CSAC input, CSAC database output, regenerated amino-acid
+frequency vectors, PDB-level descriptor table, and shared-family/global comparison summary
+tables are provided in `data/ni_fe_manuscript/`.
+
+Key files include:
+- `csac_input_fe_ni_combined_local181.csv`: finalized combined Fe/Ni CSAC input set.
+- `CSAC_fe_ni_combined_local_2026-03-12_FE_NI_DATABASE.csv`: final per-center CSAC output database.
+- `CSAC_fe_ni_combined_local_2026-03-12_FE_NI_FREQ_VECTOR.csv`: regenerated amino-acid frequency vectors.
+- `CSAC_fe_ni_combined_local_2026-03-12_pdb_level_descriptors.csv`: PDB-metal-level hydropathy and amino-acid descriptor table.
+- `stats_track_ab_2026-03-12_compact.csv`: compact shared-family and global statistical summary.
+
 License
 -------
 This project is distributed under the MIT License. See `LICENSE` for details.

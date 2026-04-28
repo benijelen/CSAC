@@ -1,0 +1,12 @@
+EnzymeFamily,total_unique_pdb,FE+NI,FE-only,NI-only
+CODH,17,13,4,0
+NiFe_hydrogenases,17,17,0,0
+Urease,17,0,0,17
+Methyl-coenzyme M reductase,11,0,0,11
+Acetyl-CoA synthase (Ni site),8,8,0,0
+Acireductone dioxygenase (Ni form),4,0,0,4
+Ni superoxide dismutase,4,0,0,4
+ACS,3,3,0,0
+Glyoxalase I (Ni-dependent lineages),3,0,0,3
+Carbon monoxide dehydrogenase (Ni site),1,1,0,0
+Lactate racemase,1,0,0,1
